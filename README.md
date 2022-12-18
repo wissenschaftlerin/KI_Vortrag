@@ -1,2 +1,3 @@
 # KNN_unter_Verwendung_der_euklidischen_Distanz
-KI_Vortrag_KNN_unter_Verwendung_der_euklidischen_Distanz_ZFA_NT
+
+Vorlesung: Künstliche Intelligenz I (ÜSDMBT369)
